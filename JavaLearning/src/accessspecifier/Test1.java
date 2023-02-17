@@ -23,8 +23,5 @@ System.out.println(c);
 System.out.println(e);
 
 }
-public static void m3()
-{
-	System.out.println("method of test1");
-}
+
 }
